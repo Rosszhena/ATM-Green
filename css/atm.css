@@ -1,0 +1,186 @@
+.menu img {
+  width: 90%;
+  height: 100vh;
+  text-align: center;
+  margin-left: 5%;
+}
+ .menu{
+   margin: 0 auto;
+ }
+
+ #headerDepositos img{
+     width: 90%;
+     height: 100vh;
+     text-align: center;
+     margin-left: 5%;
+     position: relative;
+    z-index: 2;
+ }
+
+ #headerDepositos{
+   position: absolute;
+   z-index: 1;
+ }
+
+#headerDepositos input{
+  width: 30%;
+  height: 35px;
+  border-radius: 8px;
+  border: 2 px solid rgb(42, 160, 235);
+  position: absolute;
+  top: 40%;
+  z-index: 10;
+  margin-left: -83%;
+}
+
+#headerDepositos #monto{
+  width: 15%;
+  height: 40px;
+  border-radius: 8px;
+  border: 2 px solid rgb(42, 160, 235);
+  position: absolute;
+  top: 50%;
+  z-index: 15;
+  margin-left: -75%;
+}
+
+#headerDepositos #datosDeposito1{
+  width: 35%;
+  height: 20px;
+  border-radius: 8px;
+  border: 2 px solid rgb(42, 160, 235);
+  position: absolute;
+  top: 25.5%;
+  z-index: 15;
+  margin-left: -62%;
+}
+
+#headerDepositos #datosDeposito2{
+  width: 35%;
+  height: 20px;
+  border-radius: 8px;
+  border: 2 px solid rgb(42, 160, 235);
+  position: absolute;
+  top: 30%;
+  z-index: 15;
+  margin-left: -62%;
+}
+
+#headerDepositos #pago{
+  width: 50%;
+  height: 26px;
+  border-radius: 8px;
+  border: 2 px solid rgb(42, 160, 235);
+  position: absolute;
+  top: 43.5%;
+  z-index: 15;
+  margin-left: -82%;
+}
+
+#headerDepositos #datosDeposito3{
+  width: 35%;
+  height: 20px;
+  border-radius: 8px;
+  border: 2 px solid rgb(42, 160, 235);
+  position: absolute;
+  top: 34%;
+  z-index: 15;
+  margin-left: -62%;
+}
+
+#headerDepositos #nombreConf{
+  width: 78%;
+  height: 25px;
+  border-radius: 8px;
+  border: 2 px solid rgb(42, 160, 235);
+  position: absolute;
+  top: 31%;
+  z-index: 15;
+  margin-left: -82%;
+}
+
+#headerDepositos #celConf{
+  width: 35%;
+  height: 32px;
+  border-radius: 8px;
+  border: 2 px solid rgb(42, 160, 235);
+  position: absolute;
+  top: 58%;
+  z-index: 15;
+  margin-left: -52%;
+}
+#headerDepositos #compTdc{
+  width: 35%;
+  height: 23px;
+  border-radius: 8px;
+  border: 2 px solid rgb(42, 160, 235);
+  position: absolute;
+  top: 25%;
+  z-index: 15;
+  margin-left: -62%;
+}
+#headerDepositos #compName{
+  width: 35%;
+  height: 23px;
+  border-radius: 8px;
+  border: 2 px solid rgb(42, 160, 235);
+  position: absolute;
+  top: 29%;
+  z-index: 15;
+  margin-left: -62%;
+}
+
+#headerDepositos #importeIngr{
+  width: 35%;
+  height: 23px;
+  border-radius: 8px;
+  border: 2 px solid rgb(42, 160, 235);
+  position: absolute;
+  top: 33%;
+  z-index: 15;
+  margin-left: -62%;
+}
+
+#headerDepositos #importeDep{
+  width: 35%;
+  height: 23px;
+  border-radius: 8px;
+  border: 2 px solid rgb(42, 160, 235);
+  position: absolute;
+  top: 36%;
+  z-index: 15;
+  margin-left: -62%;
+}
+
+#headerDepositos #cambio{
+  width: 35%;
+  height: 23px;
+  border-radius: 8px;
+  border: 2 px solid rgb(42, 160, 235);
+  position: absolute;
+  top: 39.5%;
+  z-index: 15;
+  margin-left: -62%;
+}
+
+#headerDepositos #motivo{
+  width: 35%;
+  height: 23px;
+  border-radius: 8px;
+  border: 2 px solid rgb(42, 160, 235);
+  position: absolute;
+  top: 43%;
+  z-index: 15;
+  margin-left: -62%;
+}
+
+#headerDepositos #compCel{
+  width: 35%;
+  height: 23px;
+  border-radius: 8px;
+  border: 2 px solid rgb(42, 160, 235);
+  position: absolute;
+  top: 47%;
+  z-index: 15;
+  margin-left: -62%;
+}
